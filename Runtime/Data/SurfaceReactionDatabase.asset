@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1ccc5b9ca823c646b76e1f62f599e8f, type: 3}
+  m_Name: SurfaceReactionDatabase
+  m_EditorClassIdentifier: SurfaceReactionSystem::Dave6.SurfaceReactionSystem.SurfaceReactionDatabase
+  reactions:
+  - {fileID: 11400000, guid: 6ca5ac447f8a2344f8e467b730440587, type: 2}
+  - {fileID: 11400000, guid: d97be703c02aaf447858fd5c95d7a293, type: 2}
+  defaultSurface: {fileID: 11400000, guid: 1747c2f4ea3dc734da3a49e4546b3669, type: 2}
+  rendererSurfaces:
+  - albedo: {fileID: 2800000, guid: d1118dda59970a2449ee890fa247c4c5, type: 3}
+    surface: {fileID: 11400000, guid: e9019264500d2914ebdae0f69416b470, type: 2}
+  - albedo: {fileID: 2800000, guid: d9c0dd5cdac07b145be73329e489869a, type: 3}
+    surface: {fileID: 11400000, guid: e9019264500d2914ebdae0f69416b470, type: 2}
+  terrainSurfaces:
+  - terrainLayer: {fileID: 8574412962073106934, guid: 547b69d2b76bd0947ab79d7c7704e7ae, type: 2}
+    surface: {fileID: 11400000, guid: e9019264500d2914ebdae0f69416b470, type: 2}

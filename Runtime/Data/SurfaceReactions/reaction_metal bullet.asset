@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5f2068d56683e94c895199ea202d357, type: 3}
+  m_Name: reaction_metal bullet
+  m_EditorClassIdentifier: SurfaceReactionSystem::Dave6.SurfaceReactionSystem.SurfaceReaction
+  surface: {fileID: 11400000, guid: e9019264500d2914ebdae0f69416b470, type: 2}
+  impactType: {fileID: 11400000, guid: 8da23023c01d4514ea94244e1f8b0d77, type: 2}
+  effectSet: {fileID: 11400000, guid: 6977bf04b8a4f8c4b976ad545fcc93e7, type: 2}

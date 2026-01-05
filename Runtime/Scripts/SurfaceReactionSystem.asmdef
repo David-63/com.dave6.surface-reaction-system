@@ -1,0 +1,18 @@
+{
+    "name": "SurfaceReactionSystem",
+    "rootNamespace": "Dave6.SurfaceReactionSystem",
+    "references": [
+        "GUID:afed0d0877f31784d88e20e1da31e6eb",
+        "GUID:acb680708cfad1644a5c42ac93cd3b14",
+        "GUID:7b36d3e097026234eb2e33ac4c1571c2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

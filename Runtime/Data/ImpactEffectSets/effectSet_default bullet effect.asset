@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 573cdb214c6c661428dff3f9093ba85f, type: 3}
+  m_Name: effectSet_default bullet effect
+  m_EditorClassIdentifier: SurfaceReactionSystem::Dave6.SurfaceReactionSystem.ImpactEffectSet
+  effects:
+  - {fileID: 11400000, guid: a95d907e6bcba1145a07a61f86647944, type: 2}
+  - {fileID: 11400000, guid: 07b7f04143c58c34da65eb613ba8d30a, type: 2}

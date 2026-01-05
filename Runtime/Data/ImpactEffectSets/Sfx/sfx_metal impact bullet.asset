@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22fa55640cf79c44e8ddde53f3947963, type: 3}
+  m_Name: sfx_metal impact bullet
+  m_EditorClassIdentifier: SurfaceReactionSystem::Dave6.SurfaceReactionSystem.PlaySfx
+  audioSourcePrefab: {fileID: 5729372082165967320, guid: 1d3424275fe6bcb40b85b766db277b10, type: 3}
+  audioClips:
+  - {fileID: 8300000, guid: 123f7fb480519ec49b51d0b4c116c9d9, type: 3}
+  volumeRange: {x: 0.8, y: 0.9}
+  pitchRange: {x: 0.8, y: 1.2}

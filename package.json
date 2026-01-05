@@ -1,0 +1,26 @@
+{
+  "name": "com.dave6.surface-reaction-system",
+  "version": "0.0.1",
+  "displayName": "Dave Surface Reaction System",
+  "description": "Detecting surface types and automatically handling impact reactions.",
+  "unity": "6000.0",
+  "unityRelease": "0",
+  "documentationUrl": "https://github.com/David-63/com.dave6.surface-reaction-system#readme",
+  "changelogUrl": "https://github.com/David-63/com.dave6.surface-reaction-system/releases",
+  "licensesUrl": "https://github.com/David-63/com.dave6.surface-reaction-system/blob/main/LICENSE",
+  "keywords": [
+    "Surface",
+    "moduler"
+  ],
+  "author": {
+    "name": "David-63",
+    "email": "jiseop.63@gmail.com",
+    "url": "https://github.com/David-63"
+  },
+  "dependencies": {
+    "com.unity.probuilder": "6.0.8",
+    "com.dave6.unity-utils": "0.0.4",
+    "com.dave6.timer": "0.0.2",
+    "com.dave6.object-pooling-system": "0.0.1"
+  }
+}
