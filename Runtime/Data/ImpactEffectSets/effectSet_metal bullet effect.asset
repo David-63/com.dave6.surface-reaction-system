@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: effectSet_metal bullet effect
   m_EditorClassIdentifier: SurfaceReactionSystem::Dave6.SurfaceReactionSystem.ImpactEffectSet
   effects:
-  - {fileID: 11400000, guid: a95d907e6bcba1145a07a61f86647944, type: 2}
+  - {fileID: 11400000, guid: 0e777ce5bfaba4348b377cfe9b426a8a, type: 2}
   - {fileID: 11400000, guid: de930abb99afc5f4ba48b91506e1f2e1, type: 2}

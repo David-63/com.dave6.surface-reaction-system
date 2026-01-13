@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c1abda5b763bd2c459a07cb8a18de567, type: 3}
-  m_Name: vfx_metal particle
+  m_Name: vfx_particle concrete
   m_EditorClassIdentifier: SurfaceReactionSystem::Dave6.SurfaceReactionSystem.SpawnVfx
-  prefab: {fileID: 5685366095838767878, guid: 08c83f1facf7a824e9ec931445694c9e, type: 3}
+  prefab: {fileID: 2463606574898323088, guid: 5959726380520234d8e5d1c319d57b7a, type: 3}
   probability: 1
   randomizeRotation: 0
   randomizedRotationMultiplier: {x: 0, y: 0, z: 0}
