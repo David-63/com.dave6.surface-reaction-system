@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 8749461800355464833}
   - component: {fileID: 8908677407081583911}
   - component: {fileID: 8910359993328104377}
+  - component: {fileID: 6553951405771125304}
+  - component: {fileID: 6932852485192426352}
   m_Layer: 0
   m_Name: Impact Particle_Metal
   m_TagString: Untagged
@@ -4919,6 +4921,30 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
+--- !u!114 &6553951405771125304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8747873522313669805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f73bf9b3c51ce8e4d85d67fd255160b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ObjectPoolingSystem::Dave6.ObjectPoolingSystem.PoolableObject
+--- !u!114 &6932852485192426352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8747873522313669805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fc9f322840d9a9459d21e774a236309, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ObjectPoolingSystem::Dave6.ObjectPoolingSystem.ParticleRelease
 --- !u!1 &8747888851119853741
 GameObject:
   m_ObjectHideFlags: 0

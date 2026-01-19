@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: SurfaceReactionSystem::Dave6.SurfaceReactionSystem.PlaySfx
   audioSourcePrefab: {fileID: 5729372082165967320, guid: 1d3424275fe6bcb40b85b766db277b10, type: 3}
   audioClips:
-  - {fileID: 8300000, guid: 2e1e1e2576e99334c94d3cd6280dbe83, type: 3}
+  - {fileID: 8300000, guid: 681910490ba77544eb0c32266243d0fe, type: 3}
+  - {fileID: 8300000, guid: d2d25743078621f4f91cda3996719619, type: 3}
+  - {fileID: 8300000, guid: 3e6f6d0d9f0d004439d63c77eb667a6d, type: 3}
+  - {fileID: 8300000, guid: beb5ae046a5962d4ba83161d4e1202b0, type: 3}
   volumeRange: {x: 0.9, y: 1}
-  pitchRange: {x: 0.6, y: 0.9}
+  pitchRange: {x: 0.8, y: 1.2}
